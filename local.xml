@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-<project name="CyanogenMod/android_device_motorola_falcon" path="device/motorola/falcon" remote="cm" revision="cm-13.0"/>
-<project name="CyanogenMod/android_device_motorola_msm8226-common" path="device/motorola/msm8226-common" remote="cm" revision="cm-13.0"/>
-<project name="CyanogenMod/android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="cm" revision="cm-13.0"/>
-<project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="cm" revision="cm-13.0"/>
-<project name="Cyanogenmod/android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="cm" revision="cm-13.0" />
+<project name="android_device_motorola_falcon" path="device/motorola/falcon" remote="cm" revision="cm-13.0"/>
+<project name="android_device_motorola_msm8226-common" path="device/motorola/msm8226-common" remote="cm" revision="cm-13.0"/>
+<project name="android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="cm" revision="cm-13.0"/>
+<project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola" remote="github" revision="cm-13.0"/>
+<project name="android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="cm" revision="cm-13.0" />
 </manifest>
