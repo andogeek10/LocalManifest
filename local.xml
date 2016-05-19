@@ -13,6 +13,6 @@
 
   <project name="proprietary_vendor_motorola" path="vendor/motorola" remote="tm" revision="cm-13.0"/>
 
-  <project name="android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="cm" revision="cm-13.0" />
+  <project name="android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cm-13.0" />
 
 </manifest>
