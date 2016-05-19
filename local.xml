@@ -3,9 +3,9 @@
   <remote name="tm"
           fetch="https://github.com/TheMuppets" />
           
-  <project name="android_device_motorola_falcon" path="device/motorola/falcon" remote="cm" revision="cm-13.0"/>
+  <project name="android_device_motorola_falcon" path="device/motorola/falcon" remote="rro" revision="marshmallow"/>
 
-  <project name="android_device_motorola_msm8226-common" path="device/motorola/msm8226-common" remote="cm" revision="cm-13.0"/>
+  <project name="android_device_motorola_msm8226-common" path="device/motorola/msm8226-common" remote="rro" revision="marshmallow"/>
 
   <project name="android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="cm" revision="cm-13.0"/>
 
