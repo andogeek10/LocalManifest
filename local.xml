@@ -2,17 +2,9 @@
 <manifest>
   <remote name="tm"
           fetch="https://github.com/TheMuppets" />
-  <remote name="thug"
-          fetch="https://github.com/akhilnarang" />
-          
-  <project name="android_device_motorola_falcon" path="device/motorola/falcon" remote="rro" revision="marshmallow"/>
 
-  <project name="android_device_motorola_msm8226-common" path="device/motorola/msm8226-common" remote="rro" revision="marshmallow"/>
-
-  <project name="ThugLife_falcon" path="kernel/motorola/msm8226" remote="thug" revision="master"/>
+  <project name="Aayushya/android_device_motorola_falcon" path="device/motorola/falcon" remote="github" revision="omnisaber"/>
 
   <project name="proprietary_vendor_motorola" path="vendor/motorola" remote="tm" revision="cm-13.0"/>
-
-  <project name="android_external_sony_boringssl-compat" path="external/sony/boringssl-compat" remote="github" revision="cm-13.0" />
 
 </manifest>
