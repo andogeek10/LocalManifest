@@ -3,8 +3,6 @@
   <remote name="tm"
           fetch="https://github.com/TheMuppets" />
 
-  <project name="Aayushya/android_device_motorola_falcon" path="device/motorola/falcon" remote="github" revision="omnisaber"/>
-
   <project name="proprietary_vendor_motorola" path="vendor/motorola" remote="tm" revision="cm-13.0"/>
 
 </manifest>
